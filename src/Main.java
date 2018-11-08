@@ -5,11 +5,13 @@
  * Project: Gestione Corriere v1.02 (Java)
  */
 
+import java.lang.*;
+
 public class Main {
 
 	public static void main(String[] args) {
 
-		int a;
+	
 	}
 
 }
